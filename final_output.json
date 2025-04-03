@@ -72,8 +72,7 @@
         "character": "鱼",
         "pinyin": "yú",
         "definition": [
-            " fish (CL:條|条[tiao2],尾[wei3])",
-            " used in the names of various aquatic animals that are not fish (including abalone 鮑魚|鲍鱼[bao4yu2], alligators and crocodiles 鱷魚|鳄鱼[e4yu2] and octopi 章魚|章鱼[zhang1yu2])"
+            " fish (CL:條|条[tiao2],尾[wei3])"
         ],
         "audio": "audio/鱼.mp3",
         "level": 1,
@@ -105,7 +104,8 @@
         "character": "大",
         "pinyin": "dà",
         "definition": [
-            " see 大夫[dai4 fu5]"
+            " big",
+            " 大夫(doctor)[dai4 fu1]"
         ],
         "audio": "audio/大.mp3",
         "level": 1,
@@ -139,7 +139,7 @@
         "character": "的",
         "pinyin": "de",
         "definition": [
-            " (bound form) bull's-eye; target"
+            " possessive particle to express possession"
         ],
         "audio": "audio/的.mp3",
         "level": 1,
@@ -149,7 +149,7 @@
         "character": "弟",
         "pinyin": "dì",
         "definition": [
-            " variant of 悌[ti4]"
+            " younger brother"
         ],
         "audio": "audio/弟.mp3",
         "level": 1,
@@ -159,7 +159,7 @@
         "character": "女",
         "pinyin": "nǚ",
         "definition": [
-            " old variant of 汝[ru3]"
+            " female"
         ],
         "audio": "audio/女.mp3",
         "level": 1,
@@ -191,8 +191,8 @@
         "character": "他",
         "pinyin": "tā",
         "definition": [
-            " (third-person singular) (since the early 20th century, usu. male) he; him; his",
-            " (bound form) other; another; some other (as in 他日[ta1ri4] and 他人[ta1ren2])"
+            " (third-person singular) he; him; his",
+            " (bound form) other; another; some other"
         ],
         "audio": "audio/他.mp3",
         "level": 1,
@@ -225,7 +225,7 @@
         "character": "你",
         "pinyin": "nǐ",
         "definition": [
-            " you (Note: In Taiwan, 妳 is used to address females, but in mainland China, it is not commonly used. Instead, 你 is used to address both males and females.)"
+            " you (informal, as opposed to courteous 您[nin2])"
         ],
         "audio": "audio/你.mp3",
         "level": 1,
@@ -269,7 +269,7 @@
         "character": "喝",
         "pinyin": "hē",
         "definition": [
-            " to shout"
+            " drink"
         ],
         "audio": "audio/喝.mp3",
         "level": 1,
@@ -336,7 +336,7 @@
         "character": "个",
         "pinyin": "gè",
         "definition": [
-            " variant of 個|个[ge4]"
+            " individual or piece"
         ],
         "audio": "audio/个.mp3",
         "level": 1,
@@ -346,7 +346,7 @@
         "character": "和",
         "pinyin": "hé",
         "definition": [
-            " (literary) harmonious (variant of 和[he2])"
+            " harmonious; and"
         ],
         "audio": "audio/和.mp3",
         "level": 1,
@@ -356,7 +356,7 @@
         "character": "可",
         "pinyin": "kě",
         "definition": [
-            " used in 可汗[ke4 han2]"
+            " can; able to"
         ],
         "audio": "audio/可.mp3",
         "level": 1,
@@ -366,9 +366,10 @@
         "character": "以",
         "pinyin": "yǐ",
         "definition": [
-            " to use",
-            " by means of",
-            " according to"
+            " in order to",
+            " 以为 thought",
+            " 以后 in future",
+            " 以前 formmerly"
         ],
         "audio": "audio/以.mp3",
         "level": 1,

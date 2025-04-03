@@ -92,6 +92,7 @@ body {
   .front {
     background: linear-gradient(135deg, #3498db, #6dd5fa);
     color: white;
+    font-size: 150px;
   }
   
   .back {

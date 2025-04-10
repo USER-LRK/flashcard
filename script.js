@@ -91,8 +91,8 @@ function showFlashcard(index) {
 
         const card = filteredFlashcards[index];
         document.getElementById("character").innerText = card.character;
-        document.getElementById("pinyin").innerText = "pinyin: " + card.pinyin;
-        document.getElementById("definition").innerText = "definition: " + card.definition;
+        document.getElementById("pinyin").innerText = "Pinyin: " + card.pinyin;
+        document.getElementById("definition").innerText = "Definition: " + card.definition;
         document.getElementById("character1").innerText = card.character;
 
         setTimeout(() => {

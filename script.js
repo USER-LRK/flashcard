@@ -5,7 +5,7 @@ let filteredFlashcards = [];
 
 // Load flashcards from JSON
 async function loadFlashcards() {
-    const response = await fetch('final_output.json');
+    const response = await fetch('final_outputv2.json');
     flashcards = await response.json();
     populateLevelDropdown();
 }
